@@ -2,4 +2,7 @@
 title RealityCheck
 start In Reality....txt
 start WebBlock.c
-start In Reality.c
+start GetScrewed.c
+start RandomType.vbs
+pause
+exit
